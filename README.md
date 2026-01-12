@@ -4,7 +4,7 @@
 
 ![Power BI](https://img.shields.io/badge/Data_Visualization-Power_BI-yellow) 
 ![Python](https://img.shields.io/badge/Language-Python-blue) 
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL_ (Neon)-blue)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL(Neon)_-blue)
 ![Cloud](https://img.shields.io/badge/Platform-Neon_Cloud-green)
 
 ## 🚀 Live Interactive Dashboard
